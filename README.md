@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @babsolut
+- 👋 Hi, I’m Babatunde Oluwole
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on building a solution with python
